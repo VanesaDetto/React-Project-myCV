@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(189, 186, 186);
+}
+
+.custom-btn {
+  background-color: cornflowerblue;
+  border-radius: 5px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
